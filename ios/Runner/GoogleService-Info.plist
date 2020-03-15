@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>736469670087-br8ekvpi7pdksa7o7dj8b7ncov4mt4ia.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.736469670087-br8ekvpi7pdksa7o7dj8b7ncov4mt4ia</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>736469670087-i0kknp84r5b0v76ncq4p50l9bkj0ursh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB3r-2sNERC2X6oj-S7WS6E_I9ip2-ZUT8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>736469670087</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.testProject</string>
+	<key>PROJECT_ID</key>
+	<string>barber-test-2e96d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>barber-test-2e96d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:736469670087:ios:5e4606b0746fdd736b86e2</string>
+	<key>DATABASE_URL</key>
+	<string>https://barber-test-2e96d.firebaseio.com</string>
+</dict>
+</plist>

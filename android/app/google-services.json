@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "736469670087",
+    "firebase_url": "https://barber-test-2e96d.firebaseio.com",
+    "project_id": "barber-test-2e96d",
+    "storage_bucket": "barber-test-2e96d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736469670087:android:8065c3deded0e6366b86e2",
+        "android_client_info": {
+          "package_name": "com.example.test_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736469670087-i0kknp84r5b0v76ncq4p50l9bkj0ursh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test_project",
+            "certificate_hash": "5544a86ddb0565736fd6485ec06e8f143c2169bd"
+          }
+        },
+        {
+          "client_id": "736469670087-v2814695lbr6sf2inmtaji5uonge2f27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgjAGW5_C62dXmo4IBghfjyYJw4aL3fTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736469670087-v2814695lbr6sf2inmtaji5uonge2f27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
